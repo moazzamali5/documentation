@@ -65,7 +65,7 @@ Supported values:
 
 Customizes the title of the success feedback page.
 
-Default value: "Your form has been submitted."
+Default value: "Hi sir you are all okay."
 
 ### `_feedback.success.message`
 
